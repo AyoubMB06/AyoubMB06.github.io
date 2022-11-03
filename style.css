@@ -52,10 +52,10 @@
     background: crimson;
 }
 .skills .right .english::before{
-    width: 70%;
+    width: 80%;
 }
 .skills .right .french::before{
-    width: 95%;
+    width: 100%;
 }
 .skills .right .mother::before{
     width: 100%;
@@ -495,10 +495,10 @@ section .title::after{
     width: 80%;
 }
 .skills-content .right .uml::before{
-    width: 75%;
+    width: 100%;
 }
 .skills-content .right .java::before{
-    width: 95%;
+    width: 100%;
 }
 .skills-content .right .kotlin::before{
     width: 80%;
